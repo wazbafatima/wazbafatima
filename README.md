@@ -6,4 +6,7 @@
 📫 wazbakhan@gmail.com
 
 
-![Welcome GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+<h3 align="center">Hi 👋, I'm Wazba Fatima</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=B.Ed+Student;Lifelong+Learner;Creative+Soul+🌸" alt="Typing SVG" />
+</p>
