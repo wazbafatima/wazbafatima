@@ -1,9 +1,10 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Wazba%20Fatima-Frontend%20Developer-blue?style=for-the-badge&logo=github" alt="Wazba Fatima"/>
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Wazba%20Fatima-Frontend%20Developer-blue?style=for-the-badge&logo=github" alt="Wazba Fatima"/>
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile;Frontend+Web+Developer;Building+Responsive+Web+Interfaces;HTML+CSS+JavaScript+React;Learning+and+Growing+Every+Day" />
 </p>
 
 
