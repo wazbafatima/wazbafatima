@@ -1,10 +1,6 @@
-<h1 align="center">
-  <span style="background-color:#ADD8E6;color:white;padding:0 15px;border-radius:8px;">Wazba Fatima</span>
-</h1>
-
-<h3 align="center" style="font-size:32px;">
-Frontend Developer
-</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Wazba%20Fatima-Frontend%20Developer-ADD8E6?style=for-the-badge&logo=github" />
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile;Frontend+Web+Developer;Building+Responsive+Web+Interfaces;HTML+CSS+JavaScript+React;Learning+and+Growing+Every+Day" />
@@ -17,7 +13,12 @@ Frontend Developer
 I am a passionate **Frontend Developer** focused on building responsive, user-friendly, and visually appealing web interfaces.  
 I enjoy turning ideas into functional web experiences using modern tools and best practices.
 
-Check out my **portfolio**: [WazbaPortfolio](https://wazbaportfolio.netlify.app)
+Check out my **portfolio**:  
+<p align="center">
+  <a href="https://wazbaportfolio.netlify.app" target="_blank" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-ADD8E6?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 ---
 
@@ -55,7 +56,7 @@ Check out my **portfolio**: [WazbaPortfolio](https://wazbaportfolio.netlify.app)
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=wazbafatima&theme=dark" />
+  <img src="https://streak-stats.demolab.com/?user=wazbafatima&theme=dark" />
 </div>
 
 <div align="center">
@@ -66,14 +67,15 @@ Check out my **portfolio**: [WazbaPortfolio](https://wazbaportfolio.netlify.app)
 
 ## 📫 Let's Connect
 
-<div align="center">
-  <a href="www.linkedin.com/in/wazba-fatima" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/> LinkedIn
+<p align="center">
+  <a href="https://www.linkedin.com/in/wazba-fatima" target="_blank" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="wazbakhan@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" alt="Email"/> Email
+  &nbsp;
+  <a href="mailto:Wazbakhan@gmail.com" target="_blank" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</div>
+</p>
 
 ---
 
