@@ -33,9 +33,9 @@ I believe in consistent learning, clean code, and practical implementation.
 
 ## 📊 GitHub Stats
 
-![Wazba's GitHub stats](https://github-readme-stats.vercel.app/api?username=wazbafatima &show_icons=true&theme=default)
+![Wazba's GitHub stats](https://github-readme-stats.vercel.app/api?username=wazbafatima&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wazbafatima &layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wazbafatima&layout=compact)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=wazbafatima)
 
