@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Wazba%20Fatima-Frontend%20Developer-ADD8E6?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Wazba%20Fatima-Frontend%20Developer-blue?style=for-the-badge&logo=github" alt="Wazba Fatima"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Wazba%20Fatima-Frontend%20Developer-blue?style=for-the-badge&logo=github" alt="Wazba Fatima"/>
 </p>
 
 <p align="center">
@@ -7,29 +11,18 @@
 </p>
 
 ---
-
-## 👩‍💻 About Me
-
-I am a passionate **Frontend Developer** focused on building responsive, user-friendly, and visually appealing web interfaces.  
-I enjoy turning ideas into functional web experiences using modern tools and best practices.
-
-Check out my **portfolio**:  
-<p align="center">
-  <a href="https://wazbaportfolio.netlify.app" target="_blank" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-ADD8E6?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
----
-
-## 👀 Profile Views
+👀 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wazbafatima&color=blue" alt="Profile Views" />
 </p>
 
----
-
+Check out my **portfolio**:  
+<p align="center">
+  <a href="https://wazbaportfolio.netlify.app" target="_blank" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-blue?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 ## 🛠️ Languages & Tools
 
 <div align="left">
@@ -80,3 +73,9 @@ Check out my **portfolio**:
 ---
 
 ⭐ Always learning, building, and improving.
+
+
+
+
+
+
