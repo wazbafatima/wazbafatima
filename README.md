@@ -33,11 +33,11 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=wazbafatima&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=wazba fatima&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
     width="48%"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wazbafatima&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wazba fatima&layout=compact&theme=tokyonight&hide_border=true"
     width="46%"
   />
 </p>
