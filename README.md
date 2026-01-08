@@ -37,13 +37,13 @@
   />
   <img
     width="46%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wazba fatima&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wazbafatima&layout=compact&theme=tokyonight&hide_border=true"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=wazba fatima&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=wazbafatima&theme=tokyonight&hide_border=true"
   />
 </p>
 
