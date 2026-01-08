@@ -1,6 +1,6 @@
-<!-- ================= HEADER WITH BACKGROUND ================= -->
+<!-- ================= HEADER WITH NEW BACKGROUND ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f2027,50:203a43,100:2c5364&text=Wazba%20Fatima&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Web%20Developer&descAlignY=60&descSize=26" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=230&color=0:1e3c72,100:2a5298&text=Wazba%20Fatima&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Web%20Developer&descAlignY=60&descSize=26" />
 </p>
 
 <!-- ================= TYPING EFFECT ================= -->
@@ -25,10 +25,9 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,vite,github,netlify,figma,vscode&perline=7&theme=dark" />
 </p>
 
-
 <br/>
 
-<!-- ================= GITHUB STATS (ONLY 3) ================= -->
+<!-- ================= GITHUB STATS ================= -->
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
