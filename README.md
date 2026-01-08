@@ -1,7 +1,8 @@
 <!-- ================= HEADER WITH NEW BACKGROUND ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=230&color=0:1e3c72,100:2a5298&text=Wazba%20Fatima&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Web%20Developer&descAlignY=60&descSize=26" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=230&color=0:0f2027,50:203a43,100:2c5364&text=Wazba%20Fatima&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Web%20Developer&descAlignY=60&descSize=26" />
 </p>
+
 
 <!-- ================= TYPING EFFECT ================= -->
 <p align="center">
