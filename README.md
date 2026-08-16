@@ -5,7 +5,7 @@
 
 <!-- ================= TYPING EFFECT ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=000000&center=true&vCenter=true&width=780&lines=React+%7C+Node+%7C+Express+%7C+MongoDB;Building+Full-Stack+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=000000&center=true&vCenter=true&width=780&lines=React+%7C+Node+%7C+Express+%7C+MongoDB" />
 </p>
 
 <!-- ================= PORTFOLIO + PROFILE VIEWS ================= -->
