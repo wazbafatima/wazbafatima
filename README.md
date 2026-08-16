@@ -1,11 +1,14 @@
 <!-- ================= HEADER (CLASSIC BANNER) ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=230&color=0:0f0c29,50:302b63,100:24243e&text=Wazba%20Fatima&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer&descAlignY=60&descSize=22&descColor=00d9ff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=230&color=0:2d2a54,50:4a4488,100:3d3a6b&text=Wazba%20Fatima&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer&descAlignY=60&descSize=22&descColor=00d9ff" />
 </p>
 
 <!-- ================= TYPING EFFECT ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=780&lines=React+%7C+Node+%7C+Express+%7C+MongoDB;Building+Full-Stack+Web+Apps;Turning+Ideas+Into+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=780&lines=React+%7C+Node+%7C+Express+%7C+MongoDB;Building+Full-Stack+Web+Apps" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=000000&center=true&vCenter=true&width=780&lines=Turning+Ideas+Into+Real+Web+Apps" />
 </p>
 
 <!-- ================= PORTFOLIO + PROFILE VIEWS ================= -->
