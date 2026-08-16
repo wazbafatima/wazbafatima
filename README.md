@@ -1,19 +1,19 @@
 <!-- ================= HEADER (CLASSIC BANNER) ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=230&color=0:1a1a2e,50:16213e,100:0f3460&text=Wazba%20Fatima&fontSize=58&fontColor=e94560&fontAlignY=38&desc=MERN%20Stack%20Developer&descAlignY=60&descSize=24&descColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=230&color=0:0f0c29,50:302b63,100:24243e&text=Wazba%20Fatima&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer&descAlignY=60&descSize=22&descColor=00d9ff" />
 </p>
 
 <!-- ================= TYPING EFFECT ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;React+%7C+Node+%7C+Express+%7C+MongoDB;Building+Full-Stack+Web+Apps;Turning+Ideas+Into+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=780&lines=React+%7C+Node+%7C+Express+%7C+MongoDB;Building+Full-Stack+Web+Apps;Turning+Ideas+Into+Code" />
 </p>
 
 <!-- ================= PORTFOLIO + PROFILE VIEWS ================= -->
 <p align="center">
   <a href="https://wazbaportfolio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Portfolio-0F3460?style=for-the-badge&logo=netlify&logoColor=white" />
+    <img src="https://img.shields.io/badge/My%20Portfolio-302B63?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=wazbafatima&label=Profile+Views&color=0F3460&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=wazbafatima&label=Profile+Views&color=302B63&style=for-the-badge" />
 </p>
 
 <br/>
@@ -31,11 +31,11 @@
 <p align="center">
   <img
     width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=wazbafatima&show_icons=true&count_private=true&theme=radical&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api?username=wazbafatima&show_icons=true&count_private=true&theme=radical&hide_border=true"
   />
   <img
     width="46%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wazbafatima&layout=compact&theme=radical&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=wazbafatima&layout=compact&theme=radical&hide_border=true"
   />
 </p>
 <p align="center">
@@ -50,9 +50,9 @@
 <h3 align="center">📫 Let's Connect</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/wazba-fatima" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0F3460?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-302B63?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:wazbakhan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0F3460?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-302B63?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
