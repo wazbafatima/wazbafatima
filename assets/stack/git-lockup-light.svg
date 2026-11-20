@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="66" height="80" viewBox="0 0 66 80" role="img" aria-labelledby="title-git">
+  <title id="title-git">Git</title>
+  <rect x=".5" y=".5" width="65" height="79" rx="8" fill="#FCF8FA" stroke="#E6D9E3"/>
+  <g transform="translate(16.00, 13) scale(1.4167)" fill="#F05032">
+    
+    <path d="M13.09 23.549a1.54 1.54 0 0 1-2.18 0L.451 13.089a1.54 1.54 0 0 1 0-2.179l7.191-7.19 2.733 2.733a1.85 1.85 0 0 0 .964 2.326v6.66a1.849 1.849 0 1 0 1.54 0V8.957l2.508 2.508a1.85 1.85 0 1 0 1.09-1.09l-2.634-2.634a1.85 1.85 0 0 0-2.378-2.377L8.73 2.63 10.91.451a1.54 1.54 0 0 1 2.179 0l10.459 10.46a1.54 1.54 0 0 1 0 2.179z"/>
+  </g>
+  <text x="50%" y="66" text-anchor="middle" fill="#242129" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600">Git</text>
+</svg>
