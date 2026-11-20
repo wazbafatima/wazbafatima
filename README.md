@@ -2,10 +2,10 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/intro-dark.svg">
-  <img src="assets/intro.svg" height="52" alt="Hi, I'm Wazba." />
+  <img src="assets/intro.svg" height="52" alt="I build web apps from screen to server." />
 </picture>
 
-I build web projects with JavaScript and React, and have also worked on the server side with Node.js, Express, and MongoDB. I like understanding how the interface, API, and data fit together in a working app.
+Hi, I'm Wazba. I work with JavaScript and React, and have used Node.js, Express, and MongoDB on the server side. I like following a feature from what someone sees on screen through to the data behind it.
 
 ## Web stack
 
