@@ -1,19 +1,25 @@
+<a id="top"></a>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-header-dark.svg">
-  <img src="assets/profile-header.svg" width="100%" alt="Wazba Fatima: from interface to API, building for the web." />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/intro-dark.svg">
+  <img src="assets/intro.svg" height="52" alt="Hi, I'm Wazba." />
 </picture>
 
-## About
+I build web projects with JavaScript and React, and have also worked on the server side with Node.js, Express, and MongoDB. I like understanding how the interface, API, and data fit together in a working app.
 
-Hi, I'm Wazba. I build web projects with JavaScript and React, and I've also worked on the server side with Node.js, Express, and MongoDB. I enjoy making practical applications and learning how their different pieces fit together.
+## Web stack
 
-## Tech stack
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind" height="40" alt="JavaScript, HTML, CSS, React, Tailwind CSS" />
 
-- **Languages:** JavaScript, HTML, CSS
-- **Frontend:** React, Tailwind CSS
-- **Backend:** Node.js, Express
-- **Database:** MongoDB, Mongoose
-- **Tools:** Git, Vite
+**Backend and data**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="40" alt="Node.js, Express, MongoDB" />
+
+<details>
+  <summary>More from my toolkit</summary>
+  <br />
+  Git · Vite · Mongoose
+</details>
 
 ## Selected projects
 
@@ -22,5 +28,9 @@ Hi, I'm Wazba. I build web projects with JavaScript and React, and I've also wor
 
 ## Let's connect
 
+If you’re building something for the web or have a thought about one of my projects, I’d be glad to hear from you.
+
 <a href="https://www.linkedin.com/in/wazba-fatima"><img src="assets/linkedin.svg" height="30" alt="LinkedIn"></a>
 <a href="mailto:wazbakhan@gmail.com"><img src="assets/email.svg" height="30" alt="Email"></a>
+
+<p align="center"><sub>© 2026 Wazba Fatima · <a href="#top">Back to top ↑</a></sub></p>
