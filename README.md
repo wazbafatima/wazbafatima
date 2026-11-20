@@ -18,7 +18,7 @@ I build web projects with JavaScript and React, and have also worked on the serv
 <details>
   <summary>More from my toolkit</summary>
   <br />
-  Git · Vite · Mongoose
+  Git, Vite, Mongoose
 </details>
 
 ## Selected projects
@@ -28,9 +28,9 @@ I build web projects with JavaScript and React, and have also worked on the serv
 
 ## Let's connect
 
-If you’re building something for the web or have a thought about one of my projects, I’d be glad to hear from you.
+If you're building something for the web or have a thought about one of my projects, I'd be glad to hear from you.
 
 <a href="https://www.linkedin.com/in/wazba-fatima"><img src="assets/linkedin.svg" height="30" alt="LinkedIn"></a>
 <a href="mailto:wazbakhan@gmail.com"><img src="assets/email.svg" height="30" alt="Email"></a>
 
-<p align="center"><sub>© 2026 Wazba Fatima · <a href="#top">Back to top ↑</a></sub></p>
+<p align="center"><sub>&copy; 2026 Wazba Fatima &middot; <a href="#top">Back to top &uarr;</a></sub></p>
